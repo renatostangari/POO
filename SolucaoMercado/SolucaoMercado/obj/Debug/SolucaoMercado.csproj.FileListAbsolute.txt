@@ -1,0 +1,6 @@
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2015\Projects\SolucaoMercado\SolucaoMercado\bin\Debug\SolucaoMercado.exe.config
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2015\Projects\SolucaoMercado\SolucaoMercado\bin\Debug\SolucaoMercado.exe
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2015\Projects\SolucaoMercado\SolucaoMercado\bin\Debug\SolucaoMercado.pdb
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2015\Projects\SolucaoMercado\SolucaoMercado\obj\Debug\SolucaoMercado.csprojResolveAssemblyReference.cache
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2015\Projects\SolucaoMercado\SolucaoMercado\obj\Debug\SolucaoMercado.exe
+C:\Users\renat\OneDrive\Documentos\Visual Studio 2015\Projects\SolucaoMercado\SolucaoMercado\obj\Debug\SolucaoMercado.pdb
