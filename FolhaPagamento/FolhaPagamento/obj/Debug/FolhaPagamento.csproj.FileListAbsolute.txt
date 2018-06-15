@@ -1,0 +1,10 @@
+C:\Users\vinic\OneDrive\Sistemas de Informação\2º Ano - 2018\Prof. Julio - POO\Aplicações\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.exe.config
+C:\Users\vinic\OneDrive\Sistemas de Informação\2º Ano - 2018\Prof. Julio - POO\Aplicações\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.exe
+C:\Users\vinic\OneDrive\Sistemas de Informação\2º Ano - 2018\Prof. Julio - POO\Aplicações\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.pdb
+C:\Users\vinic\OneDrive\Sistemas de Informação\2º Ano - 2018\Prof. Julio - POO\Aplicações\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csprojResolveAssemblyReference.cache
+C:\Users\vinic\OneDrive\Sistemas de Informação\2º Ano - 2018\Prof. Julio - POO\Aplicações\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Sistemas de Informação\2º Ano - 2018\Prof. Julio - POO\Aplicações\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.exe
+C:\Users\vinic\OneDrive\Sistemas de Informação\2º Ano - 2018\Prof. Julio - POO\Aplicações\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.pdb
+D:\FolhaPagamento\FolhaPagamento\bin\Debug\FolhaPagamento.exe.config
+D:\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.exe
+D:\FolhaPagamento\FolhaPagamento\obj\Debug\FolhaPagamento.pdb
